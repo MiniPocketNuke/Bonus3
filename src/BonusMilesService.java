@@ -4,5 +4,4 @@ public class BonusMilesService {
         int result = a / bonusRequirement;
         return result;
     }
-
 }
